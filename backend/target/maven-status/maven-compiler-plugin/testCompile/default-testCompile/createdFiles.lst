@@ -1,0 +1,11 @@
+com/restaurant/qrmenu/controller/KitchenControllerIntegrationTest.class
+com/restaurant/qrmenu/controller/TableControllerIntegrationTest.class
+com/restaurant/qrmenu/service/OrderServiceTest.class
+com/restaurant/qrmenu/service/TableServiceTest.class
+com/restaurant/qrmenu/service/StaffServiceTest.class
+com/restaurant/qrmenu/service/AuthServiceTest.class
+com/restaurant/qrmenu/service/MenuServiceTest.class
+com/restaurant/qrmenu/controller/MenuControllerIntegrationTest.class
+com/restaurant/qrmenu/controller/StaffControllerIntegrationTest.class
+com/restaurant/qrmenu/controller/OrderControllerIntegrationTest.class
+com/restaurant/qrmenu/controller/AuthControllerIntegrationTest.class
